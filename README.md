@@ -1,0 +1,2 @@
+# Instal-Kali_Linux
+A Script For Install Kali-linux On Termux.  How to Use ?  -)git clone https://github.com/Techzindia/Kali-linux_For_Termux -)cd Kali-linux_For_Termux -)cp Kali-linux-Termux $HOME -)cd $HOME -)chmod +x Kali-linux-Termux -)./Kali-linux-Termux Note: Don't Clone In Internal/External Storage OR  -)apt Install curl -)cd $HOME -)curl -LO https://raw.githubusercontent.com/Techzindia/Kali-linux_For_Termux/master/Kali-linux-Termux -)chmod +x Kali-linux-Termux -)./Kali-linux-Termux 
